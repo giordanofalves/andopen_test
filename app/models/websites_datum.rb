@@ -1,0 +1,2 @@
+class WebsitesDatum < ApplicationRecord
+end
